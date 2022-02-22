@@ -1,5 +1,5 @@
 # tufts-math-modeling
-A collection of my some assignments and projects from Tufts' MATH87 class (Mathematical Modeling and Computation)
+A collection of some assignments and projects from Tufts' MATH87 class (Mathematical Modeling and Computation)
 
 Course Description (from https://math.tufts.edu/current-students/courses):
 
